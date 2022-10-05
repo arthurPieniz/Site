@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,300&family=Noto+Sans&family=Open+Sans:wght@500&family=Ubuntu&display=swap');
+body{
+    background-color: aliceblue;
+}
+.header{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+.section{
+    text-align: center;
+    padding: 100px;
+    background-color: lightblue;
+    font-family: 'Open Sans', sans-serif;
+}
